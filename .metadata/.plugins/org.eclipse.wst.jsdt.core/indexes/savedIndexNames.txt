@@ -1,0 +1,14 @@
+INDEX VERSION 1.4+D:\ITBOOK-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1096899338.index
+744270252.index
+1637612633.index
+2679459241.index
+3947045391.index
+3958899241.index
+1877855875.index
+2949374316.index
+1089077131.index
+1712875044.index
+3473886518.index
+1930257868.index
+3509243362.index
